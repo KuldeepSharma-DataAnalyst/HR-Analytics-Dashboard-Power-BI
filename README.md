@@ -13,9 +13,7 @@ Provide department-wise insights for management
 | Tool                  | Purpose                                             |
 | --------------------- | --------------------------------------------------- |
 | **Power BI**          | Dashboard creation, data modeling, DAX calculations |
-| **Excel/CSV**         | Data storage & import                               |
-| **Python (optional)** | Data cleaning & preprocessing                       |
-| **SQL (optional)**    | Data transformation                                 |
+| **Excel**             | Data storage & import                               |
 
 ### 🚀 How to Use the Project
 - Download the repository
