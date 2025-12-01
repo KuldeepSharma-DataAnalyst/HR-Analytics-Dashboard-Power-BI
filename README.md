@@ -36,5 +36,4 @@ This project is created as part of Data Analytics Portfolio Development and show
 - Data modeling
 - KPI creation
 - DAX calculations
-
-Dashboard designing
+- Dashboard designing
